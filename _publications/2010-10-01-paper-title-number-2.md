@@ -6,5 +6,5 @@ date: 2019-11-7
 venue: 'The Fourth ACM/IEEE Symposium on Edge Computing'
 paperurl: 'http://jacksonly.github.io/files/COLLA.pdf'
 ---
-Authors: **Yan Lu**, Yuanchao Shu, Xu Tan, Yunxin Liu, Mengyu Zhou, Qi Chen and Dan Pei.
+Author: **Yan Lu**, Yuanchao Shu, Xu Tan, Yunxin Liu, Mengyu Zhou, Qi Chen and Dan Pei.
 
