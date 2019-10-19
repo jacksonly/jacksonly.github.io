@@ -24,7 +24,7 @@ Work experience
 
 * Fall 2016: Research Intern
   * Chinese Academy of Sciences, Hefei, China
-  * Duties included: Design and implement an efficient computer vision system to detect Fatigue in driving
+  * Duties included: Design and implement an efficient computer vision system to detect fatigue in driving
   * Supervisor: [Xinhua Zeng](http://www.iim.cas.cn/dwjs/fyjy/201606/t20160627_340366.html)
 
 * Fall 2015: Research Assistant
