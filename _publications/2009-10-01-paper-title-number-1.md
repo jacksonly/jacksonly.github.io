@@ -7,5 +7,5 @@ venue: '2015 Fifth International Conference on Instrumentation and Measurement, 
 paperurl: 'http://jacksonly.github.io/files/P0504.pdf'
 
 ---
-Author: Xiao Luo, Jianbin Li, Xun Zhang, Tiedan Xu, Yan Lu, Qian Luo, Shina Xie and Chuan Li. <\br>
+Author: Xiao Luo, Jianbin Li, Xun Zhang, Tiedan Xu, Yan Lu, Qian Luo, Shina Xie and Chuan Li. <br/>
 [PDF](http://jacksonly.github.io/files/P0504.pdf)
