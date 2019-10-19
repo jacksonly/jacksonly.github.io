@@ -19,17 +19,17 @@ Work experience
 ======
 * Summer 2017: Research Intern
   * Microsoft Research Asia, Beijing, China
-  * Duties included: Design and implement an collaborative learning framework between cloud and end devices
+  * Duties included: Design and implement an **collaborative learning** framework between cloud and end devices
   * Supervisor: [Yuanchao Shu](https://www.microsoft.com/en-us/research/people/yushu/) and [Yunxin Liu](https://www.microsoft.com/en-us/research/people/yunliu/)
 
 * Fall 2016: Research Intern
   * Chinese Academy of Sciences, Hefei, China
-  * Duties included: Design and implement an efficient computer vision system to detect fatigue in driving
+  * Duties included: Design and implement an efficient computer vision system to **detect fatigue** in driving
   * Supervisor: [Xinhua Zeng](http://www.iim.cas.cn/dwjs/fyjy/201606/t20160627_340366.html)
 
 * Fall 2015: Research Assistant
   * SiChuan University, ChengDu, China
-  * Duties included: Design and implement an efficient algorithm to schedule the most appropriate path for airports
+  * Duties included: Design and implement an efficient algorithm to **schedule** the most appropriate path for airports
   * Supervisor: [Chuan Li](https://baike.baidu.com/item/%E6%9D%8E%E5%B7%9D/23732810)
   
 Skills
