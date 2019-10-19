@@ -11,6 +11,7 @@ Welcome to my homepage,
 I am Yan Lu and a Computer Science Ph.D. student at New York University advised by [Sam Bowman](http://www.nyu.edu/projects/bowman/). I’m interested in edge intelligence. Prior to NYU, I got M.Tech from Purdue University and B.Tech from Sichuan University.
 
 # Edge Intelligence
+
 ![alt text](https://github.com/jacksonly/jacksonly.github.io/blob/master/images/edge_intelligence.png) 
 ### Intelligent Video Analytics
 Deploying deep models on real-world videos bring many challenges on system and machine learning because deep learning needs a large resource (memory and computation) to process and traditional ML assumes the distribution of all data is i.i.d (independent and identically distributed). But the two assumptions on the real-world system are not satisfied.
