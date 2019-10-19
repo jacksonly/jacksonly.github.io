@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Sofeware Engineering, SiChuan University, 2012-2016
+* M.S. in Computer Science, Purdue University, 2016-2018
+* Ph.D in Computer Science, New York University, 2018-2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Research Intern
+  * Microsoft Research Asia, Beijing, China
+  * Duties included: Design and implement an collaborative learning framework between cloud and end devices
+  * Supervisor: [Yuanchao Shu](https://www.microsoft.com/en-us/research/people/yushu/)
+
+* Fall 2016: Research Intern
+  * Chinese Academy of Sciences, Hefei, China
+  * Duties included: Design and implement an efficient computer vision system to detect Fatigue driving
+  * Supervisor: [Xinhua Zeng](http://www.iim.cas.cn/dwjs/fyjy/201606/t20160627_340366.html)
 
 * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * SiChuan University, ChengDu, China
+  * Duties included: Design and implement an efficient algorithm to schedule the most appropriate path for airports
+  * Supervisor: [Chuan Li](https://baike.baidu.com/item/%E6%9D%8E%E5%B7%9D/23732810)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep Compression and acceleration
+* Machine Learning Framework
+  * Pytorch
+  * Keras
+  * Tensorflow
 
 Publications
 ======
@@ -42,18 +46,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
