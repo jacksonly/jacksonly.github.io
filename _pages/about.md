@@ -10,15 +10,7 @@ redirect_from:
 Welcome to my homepage,
 I am Yan Lu and a Computer Science Ph.D. student at New York University advised by [Sam Bowman](http://www.nyu.edu/projects/bowman/). I’m interested in edge intelligence. Prior to NYU, I got M.Tech from Purdue University and B.Tech from Sichuan University.
 # Edge Intelligence
-|  Level   | Description  | Projects |
-|  :---  | :---:  | :---: |
-| Level-0 Cloud Intelligence   | Training and inference on the cloud |  |
-| Level-1 Cloud-edge co-inference  | Training on the cloud |  |
-| Level-2 In-edge co-inference  | Training on the cloud |  |
-| Level-3 On-device inference   | Training on the cloud |  |
-| Level-4 Cloud-edge co-training  | Collaborative training | [COLLA](https://jacksonly.github.io/publication/2009-10-01-paper-title-number-2) |
-| Level-5 All in-edge  | Training on the edge |  |
-| Level-6 All on-device    | Training on the device |  |
+<img src='/images/edge_intelligence.png'>
 # Research Interests
 ### Intelligent Video Analytics
 Deploying deep models on real-world videos bring many challenges on system and machine learning because deep learning needs a large resource (memory and computation) to process and traditional ML assumes the distribution of all data is i.i.d (independent and identically distributed). But the two assumptions on the real-world system are not satisfied.
