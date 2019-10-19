@@ -20,7 +20,7 @@ Work experience
 * Summer 2017: Research Intern
   * Microsoft Research Asia, Beijing, China
   * Duties included: Design and implement an collaborative learning framework between cloud and end devices
-  * Supervisor: [Yuanchao Shu](https://www.microsoft.com/en-us/research/people/yushu/)
+  * Supervisor: [Yuanchao Shu](https://www.microsoft.com/en-us/research/people/yushu/) and [Yunxin Liu](https://www.microsoft.com/en-us/research/people/yunliu/)
 
 * Fall 2016: Research Intern
   * Chinese Academy of Sciences, Hefei, China
