@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Yan Lu"
   avatar           : "DSC_9193.jpg"
-  bio              : "Ph.D. student at New York University"
-  location         : "New York University"
+  bio              : "CS Ph.D. student at New York University"
+  location         : "New York, NY, 10012"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=0gYYrncAAAAJ#"
   email            : "jasonengineer@hotmail.com"
   researchgate     : "https://www.researchgate.net/profile/Yan_Lu83"
