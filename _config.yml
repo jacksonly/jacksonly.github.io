@@ -11,9 +11,9 @@ title                    : "Yan Lu"
 title_separator          : "-"
 name                     : &name "Yan Lu"
 description              : &description "An CS Ph.D. student at New York University"
-url                      : https://jacksonly.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://YanLu-nyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jacksonly.github.io"
+repository               : "YanLu-nyu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=0gYYrncAAAAJ#"
   email            : "jasonengineer@hotmail.com"
   researchgate     : "https://www.researchgate.net/profile/Yan_Lu83"
-  uri              : "https://jacksonly.github.io/"
+  uri              : "https://YanLu-nyu.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
