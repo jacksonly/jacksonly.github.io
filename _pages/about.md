@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 Welcome to my homepage,
-I am Yan Lu and a Computer Science Ph.D. student at New York University advised by [Sam Bowman](http://www.nyu.edu/projects/bowman/). I’m interested in edge intelligence. Prior to NYU, I got M.Tech from Purdue University and B.Tech from Sichuan University.
+I am Yan Lu and a Computer Science Ph.D. student at New York University advised by [Sam Bowman](http://www.nyu.edu/projects/bowman/). I’m interested in edge intelligence. Prior to NYU, I got M.Tech from Purdue University and B.Tech from Sichuan University. You can view or download my [resume/cv](https://www.dropbox.com/s/n952bquzse2cuol/CV_YANLU.pdf?dl=0) quickly!
 # Edge Intelligence
 <img src='/images/edge_intelligence.png'><br/>
 # Research Interests
